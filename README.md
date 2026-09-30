@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Carame005
 - 👀 I’m interested in games
-- 🌱 I’m currently learning multi platform development
+- 🎩 I graduated in multi platform development
+- 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on silly things
 - 📫 How to reach me not possible right now
 - 😄 Pronouns: she/them tidies
