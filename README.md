@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on silly things
 - 📫 How to reach me not possible right now
 - 😄 Pronouns: she/them tidies
-- ⚡ Fun fact: i like Blue Archive
+- ⚡ Fun fact: i like Pretty Cure
 
 <!---
 Carame005/Carame005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
